@@ -1,0 +1,23 @@
+{
+  "name": "diegosurita.github.io",
+  "version": "1.0.0",
+  "description": "Meu site, projetos, etc: https://diegosurita.github.io",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegosurita/diegosurita.github.io.git"
+  },
+  "author": "Diego Surita <desuritaweb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegosurita/diegosurita.github.io/issues"
+  },
+  "homepage": "https://github.com/diegosurita/diegosurita.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
