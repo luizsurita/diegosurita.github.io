@@ -1,7 +1,7 @@
 {
   "name": "diegosurita.github.io",
   "version": "1.0.0",
-  "description": "Meu site, projetos, etc: https://diegosurita.github.io",
+  "description": "Sobre mim, projetos, etc. https://diegosurita.github.io",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
